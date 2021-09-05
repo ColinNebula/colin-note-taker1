@@ -29,6 +29,16 @@
       "title": "laundry day",
       "text": "start laundy at 10am",
       "id": "5"
+    },
+    {
+      "title": "Laundry day!",
+      "text": "Time to do the laundy!",
+      "id": "6"
+    },
+    {
+      "title": "Garbage Day Tomorrow.",
+      "text": "Please take out the garbage at 8 am.",
+      "id": "7"
     }
   ]
 }
